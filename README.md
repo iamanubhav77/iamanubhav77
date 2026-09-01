@@ -30,7 +30,7 @@ I specialize in building reliable data pipelines, automating analytics workflows
 
 ### 🚀 Highlight Projects (DataOps & Analytics)
 
-* **[Automated Sales ETL Pipeline (DataOps)](https://github.com/iamanubhav77/dataops-level-1-automation) — Automated ETL with Python, Bash shell runner, structured logging, and Docker containerization.
+* **[Automated Sales ETL Pipeline (DataOps)]**(https://github.com/iamanubhav77/dataops-level-1-automation) — Automated ETL with Python, Bash shell runner, structured logging, and Docker containerization.
 * **[CI/CD for Analytics Testing](#)** — Automated data quality validations using GitHub Actions & PyTest.
 * **[BI Dashboard Infrastructure](#)** — Streamlit + Docker deployment with automated health monitoring.
 
